@@ -60,7 +60,6 @@ export const SingInForm = () => {
         )}
       </PasswordInputWrap>
       <PrimaryBtn text={'Sign In'} />
-      {console.log(formik)}
     </SingInFormStyled>
   );
 };

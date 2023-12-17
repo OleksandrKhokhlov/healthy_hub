@@ -26,7 +26,3 @@ export const InputStyled = styled.input`
     outline: none;
   }
 `;
-
-// props.$valid[props.name] && props.$touched[props.name]
-//   ? '1px solid var(--error-validate-input)'
-// : '1px solid var(--primary-btn-color)'
